@@ -7,7 +7,7 @@
 # But you never know how to made this one when you need.
 # This's free, If you like it, Please toke it. And don't forgot fixing the
 # issues.
-# Author lzl@rsung.com
+# Author chengmo9292@126.com
 
 SRC=/root/src/
 DOWNLOADER=http://118.178.233.241:8080/
